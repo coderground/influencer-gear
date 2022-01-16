@@ -1,0 +1,40 @@
+/* header style  */
+.header{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    
+}
+.anchor a{
+    padding-left: 34px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 100px;
+    
+}
+.menu{
+    position: relative;
+    top: 88px;
+    right: 50px;
+    font-size: 20px;
+}
+.anchor{
+    margin-top: 85px;
+}
+#cart{
+    padding-left: 34px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    margin-top: 95px;
+}
+
+.headline{
+    margin-top: 102px;
+}
